@@ -9,6 +9,7 @@
   "author": "Harshit Shrivastava",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.16.2",
     "express": "^4.15.3",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
