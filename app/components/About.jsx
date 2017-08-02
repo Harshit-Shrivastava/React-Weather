@@ -5,7 +5,7 @@ var About = (props) => {
     <div>
       <h1 className="text-center page-title">About</h1>
       <p>
-        This app is built on React
+        This app is built on React by Harshit Shrivastava (harshit.shrivastava14@gmail.com)
       </p>
       <p>
         Here are some of the tools I used:-
